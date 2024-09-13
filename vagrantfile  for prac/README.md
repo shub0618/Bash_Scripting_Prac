@@ -1,4 +1,4 @@
-################################################################################################################################
+############################################################################################################
 we are going to create three virtual machines on which we can practice our Bash scripts, the vagrant file is placed in this folder.
 You can download it from here.
 First, you need to create a directory somewhere in your system.
