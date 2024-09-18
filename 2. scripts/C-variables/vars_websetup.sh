@@ -35,14 +35,14 @@ unzip $ART_NAME.zip > /dev/null
 sudo cp -r $ART_NAME/* /var/www/html/
 echo
 
-# Bounce Service
+# Restarting the Service
 echo "########################################"
 echo "Restarting HTTPD service"
 echo "########################################"
 systemctl restart $SVC
 echo
 
-# Clean Up
+# Clean-Up
 echo "########################################"
 echo "Removing Temporary Files"
 echo "########################################"
