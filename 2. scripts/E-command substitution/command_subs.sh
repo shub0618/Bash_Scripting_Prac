@@ -14,3 +14,5 @@ echo "#######################################################"
 echo "Current Load Average $LOAD"
 echo "#######################################################"
 echo "Free ROOT partiotion size is $ROOTFREE"
+
+# inserting the values into that variable using the command subtitution
