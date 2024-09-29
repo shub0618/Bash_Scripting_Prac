@@ -38,13 +38,13 @@ To get the most out of this repository, you'll need the following installed on y
 To clone this repository to your local machine, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/your-username/bash-scripting-practice.git
+git clone https://github.com/shu1827/Bash_Scripting_Prac.git
 ```
 
 Navigate into the project directory:
 
 ```bash
-cd bash-scripting-practice
+cd Prac-Scripts
 ```
 
 ### Running the Scripts
