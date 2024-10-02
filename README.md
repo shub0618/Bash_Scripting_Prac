@@ -65,6 +65,7 @@ chmod +x script-name.sh
 ## Scripts Overview
 
 Here's an overview of the major scripts and exercises:
+Here's the content of the Sample_scripts
 
 - **01-hello-world.sh**: A simple "Hello, World!" script to get started.
 - **02-basic-calculator.sh**: A basic calculator script that demonstrates input handling and arithmetic operations.
@@ -74,6 +75,7 @@ Here's an overview of the major scripts and exercises:
 - **06-automation-task.sh**: Automates a small task like backing up a directory.
 
 > **Note**: The scripts in this repository are arranged by levels of difficulty. Each script comes with detailed comments to explain the logic behind it.
+> Go through the other folders **Prac_Scripts**,**Extra_scripts**,**Tomcat_scripts**.
 
 Happy coding! If you have any questions or suggestions, feel free to reach out via the issues tab. 😊
 
