@@ -9,6 +9,8 @@ Welcome to the **Bash Scripting Practice** repository! 🎉 This repository cont
 - [Overview](#overview)
 - [Getting Started](#getting-started)
 - [Scripts Overview](#scripts-overview)
+- [License](#license)
+
 
 ## Overview
 
@@ -77,8 +79,15 @@ Here's the content of the Sample_scripts
 > **Note**: The scripts in this repository are arranged by levels of difficulty. Each script comes with detailed comments to explain the logic behind it.
 > Go through the other folders **Prac_Scripts**,**Extra_scripts**,**Tomcat_scripts**.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 Happy coding! If you have any questions or suggestions, feel free to reach out via the issues tab. 😊
 
 ---
 
 Let me know if you'd like any additional sections or specific customizations!
+
+
