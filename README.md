@@ -2,7 +2,7 @@
 
 # Bash Scripting Practice
 
-Welcome to the **Bash Scripting Practice** repository! 🎉 This repository contains a collection of Bash scripts and exercises that I have worked on while learning and practicing shell scripting.
+Welcome to the **Bash Scripting Practice** repository!  This repository contains a collection of Bash scripts and exercises that I have worked on while learning and practicing shell scripting.
 
 ## Table of Contents
 
