@@ -86,7 +86,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Happy coding! If you have any questions or suggestions, feel free to reach out via the issues tab. 😊
 
----
 
 Let me know if you'd like any additional sections or specific customizations!
 
